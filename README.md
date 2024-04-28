@@ -25,7 +25,7 @@ skimage
 
 Instructions
 Clone the repository:
-git clone https://github.com/yourusername/traffic-sign-recognition.git
+git clone https://github.com/FlamedHunter/Traffic_Sign_Rec
 
 
 Navigate to the project directory:
